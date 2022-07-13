@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "lodash-es": "^4.17.21",
+    "pinia": "^2.0.16",
     "unplugin-vue-components": "^0.20.1",
     "uuid": "^8.3.2",
     "vite-plugin-pages": "^0.24.3",
